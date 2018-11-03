@@ -1,0 +1,20 @@
+[package]
+name = "websocket"
+version = "0.1.0"
+authors = ["Nikolay Kim <fafhrd91@gmail.com>"]
+workspace = "../"
+
+[[bin]]
+name = "websocket-server"
+path = "src/main.rs"
+
+[[bin]]
+name = "websocket-client"
+path = "src/client.rs"
+
+[dependencies]
+env_logger = "*"
+futures = "0.1"
+
+actix = "0.7"
+actix-web = "0.7"
