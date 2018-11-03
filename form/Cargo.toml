@@ -1,7 +1,7 @@
 [package]
 name = "form-example"
 version = "0.1.0"
-authors = ["Gorm Casper <gcasper@gmail.com>"]
+authors = ["zhangboyu <zhangboyu@gmail.com>"]
 
 [dependencies]
 actix = "0.7"

@@ -16,7 +16,8 @@ http errors will be chosen, each with an equal chance of being selected:
 extern crate actix;
 extern crate actix_web;
 extern crate env_logger;
-#[macro_use] extern crate failure;
+#[macro_use]
+extern crate failure;
 extern crate futures;
 extern crate rand;
 

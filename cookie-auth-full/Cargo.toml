@@ -1,8 +1,8 @@
 [package]
 name = "cookie-auth-full"
 version = "0.1.0"
-authors = ["Nikolay Kim <fafhrd91@gmail.com>"]
-workspace = "../"
+authors = ["zhangboyu <zhangboyu@gmail.com>"]
+
 
 [dependencies]
 actix = "0.7"

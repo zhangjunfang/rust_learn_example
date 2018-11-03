@@ -8,6 +8,7 @@ use actix_web::{HttpRequest, HttpResponse, Result};
 pub struct SayHi;
 
 impl<S> Middleware<S> for SayHi {
+
     fn start(&self, req: &HttpRequest<S>) -> Result<Started> {
         println!("Hi from start. You requested: {}", req.path());
         Ok(Started::Done)

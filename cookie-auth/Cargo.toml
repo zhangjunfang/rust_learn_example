@@ -2,7 +2,7 @@
 name = "cookie-auth"
 version = "0.1.0"
 authors = ["Nikolay Kim <fafhrd91@gmail.com>"]
-workspace = "../"
+
 
 [dependencies]
 actix = "0.7"

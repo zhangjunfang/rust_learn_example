@@ -1,8 +1,8 @@
 [package]
 name = "juniper-example"
 version = "0.1.0"
-authors = ["pyros2097 <pyros2097@gmail.com>"]
-workspace = "../"
+authors = ["extractor <extractor@gmail.com>"]
+
 
 [dependencies]
 env_logger = "0.5"

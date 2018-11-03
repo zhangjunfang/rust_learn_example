@@ -1,8 +1,7 @@
 [package]
 name = "unix-socket"
 version = "0.1.0"
-authors = ["Messense Lv <messense@icloud.com>"]
-workspace = "../"
+authors = ["meng <meng1319@icloud.com>"]
 
 [dependencies]
 env_logger = "0.5"

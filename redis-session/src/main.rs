@@ -1,6 +1,6 @@
 //! Example of redis based session
 //!
-//! [User guide](https://actix.rs/book/actix-web/sec-9-middlewares.html#user-sessions)
+//!
 extern crate actix;
 extern crate actix_redis;
 extern crate actix_web;

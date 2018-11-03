@@ -1,8 +1,8 @@
 [package]
 name = "actix-web-cors"
 version = "0.1.0"
-authors = ["krircc <krircc@aliyun.com>"]
-workspace = "../../"
+authors = ["zhangboyu <zhangboyu@aliyun.com>"]
+workspace = "../"
 
 [dependencies]
 serde = "1.0"

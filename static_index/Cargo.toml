@@ -1,8 +1,7 @@
 [package]
 name = "static_index"
 version = "0.1.0"
-authors = ["Jose Marinez <digeratus@gmail.com>"]
-workspace = "../"
+authors = ["zhangboyu <zhangboyu@gmail.com>"]
 
 [dependencies]
 futures = "0.1"

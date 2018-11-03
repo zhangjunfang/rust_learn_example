@@ -1,8 +1,8 @@
 [package]
 name = "protobuf-example"
 version = "0.1.0"
-authors = ["kingxsp <jin_hb_zh@126.com>"]
-workspace = "../"
+authors = ["zhangboyu <zhangboyu@126.com>"]
+
 
 [dependencies]
 bytes = "0.4"
