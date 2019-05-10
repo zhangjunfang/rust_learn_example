@@ -1,0 +1,9 @@
+[package]
+name = "actix-web-02"
+version = "0.1.0"
+authors = ["Administrator"]
+edition = "2018"
+
+[dependencies]
+actix-web = "1.0.0-alpha"
+evmap = "4.2.2"
